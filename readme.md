@@ -4,8 +4,8 @@ A curated list of awesome JVM languages and tools.
 
 - [Awesome JVM](#awesome-jvm)
     - [Languages](#languages)
-    - [Virtual Machines](#virtual-machines)
     - [Profilers](#profilers)
+    - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
