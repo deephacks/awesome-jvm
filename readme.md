@@ -5,6 +5,7 @@ A curated list of awesome JVM languages and tools.
 - [Awesome JVM](#awesome-jvm)
     - [Languages](#languages)
     - [Virtual Machines](#virtual-machines)
+    - [Profilers](#profilers)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -19,6 +20,13 @@ A curated list of awesome JVM languages and tools.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
+
+## Profilers
+
+*Tools that provide profiling information to aid program optimization*
+
+* [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
+* [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler for Java EE and Java SE platforms.
 
 ## Virtual Machines
 
