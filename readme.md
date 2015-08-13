@@ -4,6 +4,7 @@ A curated list of awesome JVM languages and tools.
 
 - [Awesome JVM](#awesome-jvm)
     - [Languages](#languages)
+    - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -18,6 +19,14 @@ A curated list of awesome JVM languages and tools.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
+
+## Virtual Machines
+
+*Virtual machines that implement the JVM specification.*
+* [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
+* [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
+* [Zing](http://www.azulsystems.com/products/zing) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
+* [Zulu](http://www.azulsystems.com/products/zulu) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 # Resources
 
