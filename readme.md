@@ -15,10 +15,15 @@ A curated list of awesome JVM languages and tools.
 
 * [Ceylon](http://ceylon-lang.org/) - Object-oriented, strong and static programming language with an emphasis on immutability, created by Red Hat.
 * [Clojure](http://clojure.org/) - Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.
+* [Erjang](http://www.erjang.org) - A JVM-based Erlang VM.
 * [Frege](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
 * [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
+* [JRuby](http://jruby.org) - Implementation of the Ruby language on the JVM.
+* [Jython](http://www.jython.org) - Python for the Java Platform.
+* [Kawa](http://www.gnu.org/software/kawa/) - Extension of the Scheme language, which is in the Lisp family of programming languages.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
+* [Nashorn](http://openjdk.java.net/projects/nashorn/) - Lightweight high-performance JavaScript runtime in Java with a native JVM.
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
 
 ## Profilers
