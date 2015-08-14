@@ -9,6 +9,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
     - [Concurrency](#concurrency)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
+    - [Nix tools](#nix-tools)
     - [Profilers](#profilers)
     - [Runtimes](#runtimes)
     - [Virtual Machines](#virtual-machines)
@@ -74,6 +75,13 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 * [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
 
+## Nix tools
+
+*Useful *nix tools when working the JVM*
+
+* [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
+* [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
+ 
 ## Profilers
 
 *Tools that provide profiling and tracing information to aid program optimization*
@@ -83,7 +91,6 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 * [Java Mission Control](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Continuously collect low level and detailed runtime information enabling after-the-fact incident analysis.
 * [jHiccup](http://www.azulsystems.com/jHiccup) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
-* [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [Riemann JVM Profiler](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
 * [Swiss Java Knife](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
