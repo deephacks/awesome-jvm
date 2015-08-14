@@ -29,7 +29,7 @@ A curated list of awesome JVM languages and tools.
 
 ## Profilers
 
-*Tools that provide profiling information to aid program optimization*
+*Tools that provide profiling and tracing information to aid program optimization*
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
