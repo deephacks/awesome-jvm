@@ -73,6 +73,7 @@ A curated list of awesome JVM languages and tools.
 
 *People related to JVM development*
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
+* [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Gil Tene twitter account.
 
 
