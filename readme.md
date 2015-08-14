@@ -4,6 +4,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 
 - [Awesome JVM](#awesome-jvm)
     - [Compilers](#compilers)
+    - [Compiler-compilers](#compiler-compilers)
     - [Languages](#languages)
     - [Profilers](#profilers)
     - [Runtimes](#runtimes)
@@ -20,6 +21,14 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 *Compilers for JVMs*
 
 * [Graal](http://openjdk.java.net/projects/graal) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
+
+## Compiler-compilers
+
+*Tools that creates a parser, interpreter, or compiler from a formal description targeted for the JVM.*
+
+* [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
+* [javacc](https://javacc.java.net/) - Parser generator for use with Java.
+* [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 
 ## Languages
 
