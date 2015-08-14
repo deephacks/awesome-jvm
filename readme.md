@@ -89,6 +89,7 @@ A curated list of awesome JVM languages, concurrency, tools and other low level 
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Gil Tene twitter account.
+* [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 
 
 # Contributing
