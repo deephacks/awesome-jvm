@@ -86,6 +86,7 @@ A curated list of awesome JVM languages, concurrency, tools and other low level 
 ## People
 
 *People related to JVM development*
+* [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Gil Tene twitter account.
