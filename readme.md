@@ -84,6 +84,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 *Videos, podcasts and other media related to JVMs*
 * [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) - JVM Language Summit 2015.
 * [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) - By Cliff Click.
+* [Understanding Java garbage collection ...](https://www.youtube.com/watch?v=_e5hujoTkgY) - By Gil Tene.
 
 ## People
 
