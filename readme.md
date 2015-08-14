@@ -48,6 +48,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 *Concurrent data structures and utilities*
 
 * [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
+* [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 
 ## Garbage collectors
 
