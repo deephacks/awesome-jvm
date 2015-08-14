@@ -40,6 +40,7 @@ A curated list of awesome JVM languages and tools.
 * [Swiss Java Knife](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
 * [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler for Java EE and Java SE platforms.
+* [Zipkin](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
 
 ## Virtual Machines
 
