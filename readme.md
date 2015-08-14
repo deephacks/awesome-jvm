@@ -69,6 +69,8 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 ## Documentation
 
 *Documentation related to JVM developement*
+* [The JVM specification](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) - The Java Virtual
+Machine Specification Java SE 8 Edition.
 * [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/) - Starting point for discussions of and information concerning the Java Memory Model.
 * [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - Unofficial guide to implementing the new Java Memory Model (JMM) specified by JSR-133.
 
