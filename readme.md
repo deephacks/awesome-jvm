@@ -8,6 +8,7 @@ A curated list of awesome JVM languages and tools.
     - [Runtimes](#runtimes)
     - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
+    - [Media](#media)
 - [Contributing](#contributing)
 
 ## Languages
@@ -62,6 +63,10 @@ A curated list of awesome JVM languages and tools.
 
 # Resources
 
+## Media
+
+*Videos, podcasts and other media related to JVMs*
+* [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) - JVM Language Summit 2015.
 
 # Contributing
 
