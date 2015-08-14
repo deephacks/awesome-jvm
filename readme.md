@@ -1,6 +1,6 @@
 # Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome JVM languages, concurrency, tools and loosely low level related stuff.
+A curated list of awesome JVM languages, concurrency, IO, tools and loosely low level related stuff.
 
 - [Awesome JVM](#awesome-jvm)
     - [Benchmarks](#benchmarks)
