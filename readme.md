@@ -78,7 +78,8 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 ## Nix tools
 
 *Useful *nix tools when working the JVM*
-* [atoptool] (http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
+* [atoptool](http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
+* [jhat](http://docs.oracle.com/javase/6/docs/technotes/tools/share/jhat.html) - Java Heap Analysis Tool
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
  
