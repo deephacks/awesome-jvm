@@ -30,6 +30,7 @@ A curated list of awesome JVM languages and tools.
 
 *Tools that provide profiling information to aid program optimization*
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
+* [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
 * [Java Mission Control](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Continuously collect low level and detailed runtime information enabling after-the-fact incident analysis.
 * [jHiccup](http://www.azulsystems.com/jHiccup) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
