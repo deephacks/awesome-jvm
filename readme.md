@@ -6,6 +6,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
     - [Benchmarks](#benchmarks)
     - [Compilers](#compilers)
     - [Compiler-compilers](#compiler-compilers)
+    - [Concurrency](#concurrency)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
     - [Profilers](#profilers)
@@ -40,6 +41,10 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+
+## Concurrency
+
+* (JCTools)[http://jctools.github.io/JCTools] - Concurrent data structures currently missing from the JDK.
 
 ## Garbage collectors
 
