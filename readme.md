@@ -53,7 +53,8 @@ A curated list of awesome JVM languages and tools.
 
 ## Virtual Machines
 
-*Virtual machines that implement the JVM specification.*
+*Virtual machines that implement the JVM specification or parts of it.*
+* [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
 * [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
 * [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
 * [Zing](http://www.azulsystems.com/products/zing) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
