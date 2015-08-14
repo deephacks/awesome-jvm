@@ -44,7 +44,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 
 ## Concurrency
 
-* (JCTools)[http://jctools.github.io/JCTools] - Concurrent data structures currently missing from the JDK.
+* [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 
 ## Garbage collectors
 
