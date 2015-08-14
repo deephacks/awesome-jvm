@@ -37,6 +37,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
+* [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 
 ## Garbage collectors
