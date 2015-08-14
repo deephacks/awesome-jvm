@@ -5,6 +5,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 - [Awesome JVM](#awesome-jvm)
     - [Compilers](#compilers)
     - [Compiler-compilers](#compiler-compilers)
+    - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
     - [Profilers](#profilers)
     - [Runtimes](#runtimes)
@@ -29,6 +30,12 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+
+## Garbage collectors
+
+*Garbage collectors for the JVM.*
+
+* [Azul Pauseless Garbage Collection](http://www.azulsystems.com/sites/default/files//images/wp_pgc_zing_v5.pdf) - Providing continuous, pauseless operation for Java applications.
 
 ## Languages
 
