@@ -83,6 +83,7 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
+* [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
  
 ## Profilers
 
