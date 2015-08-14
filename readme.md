@@ -9,6 +9,7 @@ A curated list of awesome JVM languages and tools.
     - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
     - [Media](#media)
+    - [People](#people)
 - [Contributing](#contributing)
 
 ## Languages
@@ -67,6 +68,12 @@ A curated list of awesome JVM languages and tools.
 
 *Videos, podcasts and other media related to JVMs*
 * [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) - JVM Language Summit 2015.
+
+## People
+
+*People related to JVM development*
+* [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
+
 
 # Contributing
 
