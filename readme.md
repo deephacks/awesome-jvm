@@ -3,6 +3,7 @@
 A curated list of awesome JVM languages, concurrency, tools and loosely low level related stuff.
 
 - [Awesome JVM](#awesome-jvm)
+    - [Benchmarks](#benchmarks)
     - [Compilers](#compilers)
     - [Compiler-compilers](#compiler-compilers)
     - [Garbage collectors](#garbage-collectors)
@@ -16,6 +17,13 @@ A curated list of awesome JVM languages, concurrency, tools and loosely low leve
     - [Media](#media)
     - [People](#people)
 - [Contributing](#contributing)
+
+## Benchmarks
+
+*Tools that do proper benchmarks on the JVM*
+
+* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
+* [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 
 ## Compilers
 
