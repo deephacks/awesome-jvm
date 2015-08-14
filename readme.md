@@ -66,3 +66,5 @@ A curated list of awesome JVM languages and tools.
 # Contributing
 
 Contributions are very welcome!
+
+Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
