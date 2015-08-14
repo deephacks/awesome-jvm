@@ -125,7 +125,7 @@ Machine Specification Java SE 8 Edition.
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Dave Dice](https://blogs.oracle.com/dave/) - Senior research scientist in the Scalable Synchronization Research Group within Oracle.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
-* [Gil Tene](https://twitter.com/giltene) - Gil Tene twitter account.
+* [Gil Tene](https://twitter.com/giltene) - Azul Systems.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
