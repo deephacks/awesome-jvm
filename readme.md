@@ -8,6 +8,7 @@ A curated list of awesome JVM languages and tools.
     - [Runtimes](#runtimes)
     - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
+    - [Documentation](#documentation)
     - [Media](#media)
     - [People](#people)
 - [Contributing](#contributing)
@@ -63,6 +64,11 @@ A curated list of awesome JVM languages and tools.
 * [Zulu](http://www.azulsystems.com/products/zulu) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 # Resources
+
+## Documentation
+
+*Documentation related to JVM developement*
+* [The JSR-133 Cookbook for Compiler Writers](http://gee.cs.oswego.edu/dl/jmm/cookbook.html) - Unofficial guide to implementing the new Java Memory Model (JMM) specified by JSR-133.
 
 ## Media
 
