@@ -80,8 +80,9 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 *Useful *nix tools when working the JVM*
 * [atoptool](http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
-* [jhat](http://docs.oracle.com/javase/6/docs/technotes/tools/share/jhat.html) - Java Heap Analysis Tool
-* [jstack](http://docs.oracle.com/javase/7/docs/technotes/tools/share/jstack.html) - Prints stack traces of threads for a given Java process.
+* [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
+* [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
+* [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
