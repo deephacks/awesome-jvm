@@ -49,6 +49,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 * [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
 ## Garbage collectors
 
