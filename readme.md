@@ -4,6 +4,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 - [Awesome JVM](#awesome-jvm)
     - [Benchmarks](#benchmarks)
+    - [Bytecode](#bytecode)
     - [Compilers](#compilers)
     - [Compiler-compilers](#compiler-compilers)
     - [Concurrency](#concurrency)
@@ -26,6 +27,12 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
+
+## Bytecode
+
+*Tools for bytecode manipulation and analysis.*
+
+* [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
 
 ## Compilers
 
