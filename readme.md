@@ -11,6 +11,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
     - [Memory](#memory)
+    - [Network](#network)
     - [Nix tools](#nix-tools)
     - [Profilers](#profilers)
     - [Runtimes](#runtimes)
@@ -95,6 +96,11 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 
+## Network
+
+*Tools for packet capture and network monitoring.*
+
+* [pcap4j](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
 
 ## Nix tools
 
