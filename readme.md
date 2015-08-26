@@ -93,6 +93,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
+* [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 
 
 ## Nix tools
