@@ -90,6 +90,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 *Tools and data structures for efficient memory layout and access.*
 
+* [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 
 
