@@ -86,6 +86,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
 * [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
+* [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM. 
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
