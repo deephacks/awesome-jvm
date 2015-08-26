@@ -10,6 +10,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
     - [Concurrency](#concurrency)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
+    - [Memory](#memory)
     - [Nix tools](#nix-tools)
     - [Profilers](#profilers)
     - [Runtimes](#runtimes)
@@ -84,6 +85,13 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [Nodyn](http://nodyn.io/) - Node.js compatible framework, running on the JVM powered by the DynJS Javascript runtime.
 * [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
+
+## Memory
+
+*Tools and data structures for efficient memory layout and access.*
+
+* [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
+
 
 ## Nix tools
 
