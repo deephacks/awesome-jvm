@@ -104,7 +104,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 ## Nix tools
 
-*Useful *nix tools for profiling the JVM*
+*Useful *nix tools when profiling the JVM and interaction with the host environment*
 * [atoptool](http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
 * [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - Disassembles class files into code that reflects the java bytecode.
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
