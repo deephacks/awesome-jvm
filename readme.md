@@ -115,6 +115,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [hwloc](http://linux.die.net/man/7/hwloc) - Reports the structure of the processor, number of cores, hyperthreads and cache size.
 * [likwid](https://github.com/rrze-likwid/likwid) - Read hardware performance counters on Intel and AMD processors.
 * [numactl](http://linux.die.net/man/8/numactl) - Control NUMA policy for processes or shared memory.
+* [oprofile](http://oprofile.sourceforge.net/news/) - System-wide hardware performance monitoring with easy-to-use interface at low overhead.
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
 * [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
