@@ -100,7 +100,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 
 ## Network
 
-*Tools for packet capture and network monitoring.*
+*Tools for network packet capture, monitoring, testing and resiliency.*
 
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
