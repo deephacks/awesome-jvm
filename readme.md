@@ -35,6 +35,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 *Tools for bytecode manipulation and analysis.*
 
 * [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
+* [Byte Buddy](http://bytebuddy.net) - Code generation library creating Java classes at runtime without the help of a compiler.
 
 ## Compilers
 
