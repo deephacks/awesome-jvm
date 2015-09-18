@@ -62,6 +62,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
+* [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
 
 ## Garbage collectors
 
