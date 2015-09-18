@@ -98,6 +98,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
+* [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 
 ## Network
 
