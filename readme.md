@@ -60,6 +60,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
 * [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 
 ## Garbage collectors
