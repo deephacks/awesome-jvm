@@ -103,6 +103,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 *Interconnecting JVM and native code* 
 
 * [j2v8](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
+* [Project Panama](http://openjdk.java.net/projects/panama/) - Enriching the connections between the JVM and APIs used by C programmers.
 
 ## Network
 
