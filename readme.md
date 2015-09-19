@@ -58,6 +58,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 *Concurrent data structures and utilities*
 
 * [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
+* [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
