@@ -73,6 +73,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [JRuby](http://jruby.org) - Implementation of the Ruby language on the JVM.
 * [Jython](http://www.jython.org) - Python for the Java Platform.
 * [Kawa](http://www.gnu.org/software/kawa/) - Extension of the Scheme language, which is in the Lisp family of programming languages.
+* [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
 * [Nashorn](http://openjdk.java.net/projects/nashorn/) - Lightweight high-performance JavaScript runtime in Java with a native JVM.
 * [Nodyn](http://nodyn.io/) - Node.js compatible framework, running on the JVM powered by the DynJS Javascript runtime.
