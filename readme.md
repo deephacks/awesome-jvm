@@ -11,6 +11,7 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
     - [Memory](#memory)
+    - [Native](#native)
     - [Network](#network)
     - [Nix tools](#nix-tools)
     - [Profilers](#profilers)
@@ -102,6 +103,12 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
+
+## Native
+
+*Interconnecting JVM and native code* 
+
+* [j2v8](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
 
 ## Network
 
