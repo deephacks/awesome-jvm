@@ -5,12 +5,11 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 - [Awesome JVM](#awesome-jvm)
     - [Benchmarks](#benchmarks)
     - [Bytecode](#bytecode)
-    - [Compilers](#compilers)
+- [Compilers](#compilers)
     - [Compiler-compilers](#compiler-compilers)
-    - [Concurrency](#concurrency)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
-    - [Memory](#memory)
+    - [Memory and Concurrency](#memory-and-concurrency)
     - [Native](#native)
     - [Network](#network)
     - [Nix tools](#nix-tools)
@@ -54,18 +53,6 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 
-## Concurrency
-
-*Concurrent data structures and utilities*
-
-* [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
-* [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
-* [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
-* [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
-* [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
-* [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-* [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
-
 ## Garbage collectors
 
 *Garbage collectors for the JVM.*
@@ -92,17 +79,24 @@ A curated list of awesome JVM languages, concurrency, IO, tools and loosely low 
 * [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
 
-## Memory
+## Memory and concurrency
 
-*Tools and data structures for efficient memory layout and access.*
+*Tools and data structures for efficient memory layout and concurrent access.*
 
+* [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
+* [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
+* [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
+* [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+* [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
+* [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
 
 ## Native
 
