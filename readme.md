@@ -127,6 +127,9 @@ A curated list of awesome JVM low level and performance related stuff.
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
 * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+* [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
+* [tcpflow](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
 
 ## Nix tools
 
@@ -146,10 +149,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
-* [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
-* [tcpflow](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
-* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
- 
+
+
 ## Profilers
 
 *Tools that provide profiling and tracing information to aid program optimization*
