@@ -36,6 +36,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 * [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
 * [Byte Buddy](http://bytebuddy.net) - Code generation library creating Java classes at runtime without the help of a compiler.
+* [Jitescript](https://github.com/qmx/jitescript) - Bytecode generation library similar to BiteScript. 
 
 ## Compilers
 
