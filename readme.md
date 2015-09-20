@@ -100,6 +100,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+* [pcollections](https://github.com/pcollections/pcollections) - A Persistent Java Collections Library.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
