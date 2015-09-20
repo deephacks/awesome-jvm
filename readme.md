@@ -148,6 +148,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools that provide profiling and tracing information to aid program optimization*
 * [allocation-instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
+* [aprof](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
