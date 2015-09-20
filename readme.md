@@ -114,6 +114,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools for network packet capture, monitoring, testing and resiliency.*
 
+* [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
 * [K3PO](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
