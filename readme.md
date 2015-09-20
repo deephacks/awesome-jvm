@@ -134,7 +134,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
 * [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
-* [tcpflow]() - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
+* [tcpflow](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
+* [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
  
 ## Profilers
 
