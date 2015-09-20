@@ -51,6 +51,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [Apache Calcite](http://calcite.incubator.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
+* [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
