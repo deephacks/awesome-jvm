@@ -91,6 +91,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
 * [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
