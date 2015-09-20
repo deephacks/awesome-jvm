@@ -161,6 +161,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
 * [jvmtop](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
+* [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
 * [perfj](https://github.com/coderplay/perfj) - Linux perf for java programs.
 * [polarbear](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
 * [Riemann JVM Profiler](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
@@ -168,6 +169,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
 * [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler.
 * [Zipkin](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
+
 
 ## Runtimes
 
