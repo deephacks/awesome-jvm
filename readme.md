@@ -55,6 +55,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+* [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
 
 ## Garbage collectors
