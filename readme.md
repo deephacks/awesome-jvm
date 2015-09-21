@@ -3,7 +3,6 @@
 A curated list of awesome JVM low level and performance related stuff.
 
 - [Awesome JVM](#awesome-jvm)
-    - [Benchmarks](#benchmarks)
     - [Bytecode](#bytecode)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
@@ -22,12 +21,6 @@ A curated list of awesome JVM low level and performance related stuff.
     - [People](#people)
 - [Contributing](#contributing)
 
-## Benchmarks
-
-*Tools that do proper benchmarks on the JVM*
-
-* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
-* [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 
 ## Bytecode
 
@@ -152,12 +145,14 @@ A curated list of awesome JVM low level and performance related stuff.
 ## Profilers
 
 *Tools that provide profiling and tracing information to aid program optimization*
+
 * [allocation-instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [aprof](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
 * [hawkshaw](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
+* [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [heapster](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
 * [jamm](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
@@ -165,6 +160,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [java-sizeof](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
 * [jHiccup](http://www.azulsystems.com/jHiccup) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
+* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
