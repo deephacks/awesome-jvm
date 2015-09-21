@@ -5,11 +5,10 @@ A curated list of awesome JVM low level and performance related stuff.
 - [Awesome JVM](#awesome-jvm)
     - [Benchmarks](#benchmarks)
     - [Bytecode](#bytecode)
-- [Compilers](#compilers)
-    - [Compiler-compilers](#compiler-compilers)
     - [Garbage collectors](#garbage-collectors)
     - [Languages](#languages)
     - [Memory and Concurrency](#memory-and-concurrency)
+    - [Metaprogramming](#metaprogramming)
     - [Native](#native)
     - [Network](#network)
     - [Nix tools](#nix-tools)
@@ -37,27 +36,6 @@ A curated list of awesome JVM low level and performance related stuff.
 * [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
 * [Byte Buddy](http://bytebuddy.net) - Code generation library creating Java classes at runtime without the help of a compiler.
 * [Jitescript](https://github.com/qmx/jitescript) - Bytecode generation library similar to BiteScript. 
-
-## Compilers
-
-*Compilers for JVMs*
-
-* [Graal](http://openjdk.java.net/projects/graal) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
-
-## Compiler-compilers
-
-*Tools that creates a parser, interpreter, or compiler from a formal description targeted for the JVM.*
-
-* [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
-* [Apache Calcite](http://calcite.incubator.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
-* [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
-* [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
-* [javacc](https://javacc.java.net/) - Parser generator for use with Java.
-* [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
-* [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
-* [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
-* [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
-* [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
 ## Garbage collectors
 
@@ -108,6 +86,23 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
+
+## Metaprogramming
+
+*Parsers, interpreters, compilers and source generation targeted for the JVM.*
+
+* [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
+* [Apache Calcite](http://calcite.incubator.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
+* [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
+* [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
+* [Graal](http://openjdk.java.net/projects/graal) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
+* [javacc](https://javacc.java.net/) - Parser generator for use with Java.
+* [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
+* [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+* [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
+* [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
+* [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
+
 
 ## Native
 
