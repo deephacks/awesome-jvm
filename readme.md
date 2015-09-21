@@ -90,6 +90,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [Graal](http://openjdk.java.net/projects/graal) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
+* [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
