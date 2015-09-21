@@ -57,6 +57,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
+* [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
 ## Garbage collectors
 
