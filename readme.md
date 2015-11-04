@@ -41,7 +41,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 ## Load tools
 
-*Tools that generate load and measure the system under test accurately*
+*Tools that generate load and measure the system under test accurately without coordinated omission*
 
 * [Gatling](http://gatling.io) - Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.
 * [wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk.
