@@ -5,6 +5,7 @@ A curated list of awesome JVM low level and performance related stuff.
 - [Awesome JVM](#awesome-jvm)
     - [Bytecode](#bytecode)
     - [Garbage collectors](#garbage-collectors)
+    - [Load tools](#load-tools)
     - [Languages](#languages)
     - [Memory and Concurrency](#memory-and-concurrency)
     - [Metaprogramming](#metaprogramming)
@@ -37,6 +38,13 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Azul Pauseless Garbage Collection](http://www.azulsystems.com/sites/default/files//images/wp_pgc_zing_v5.pdf) - Providing continuous, pauseless operation for Java applications.
 * [G1](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) - The Garbage-First Garbage Collector.
 * [Shenandoah](http://openjdk.java.net/jeps/189) - Ultra-Low-Pause-Time Garbage Collector.
+
+## Load tools
+
+*Tools that generate load and measure the system under test accurately*
+
+* [Gatling](http://gatling.io) - Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.
+
 
 ## Languages
 
