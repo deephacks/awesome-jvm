@@ -170,6 +170,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [jvmtop](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
 * [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+* [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
 * [perfj](https://github.com/coderplay/perfj) - Linux perf for java programs.
