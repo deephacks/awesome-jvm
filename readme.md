@@ -76,7 +76,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
-* [JCTools](http://jctools.github.io/JCTools) - Concurrent data structures currently missing from the JDK.
+* [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
@@ -96,10 +96,10 @@ A curated list of awesome JVM low level and performance related stuff.
 *Parsers, interpreters, compilers and source generation targeted for the JVM.*
 
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
-* [Apache Calcite](http://calcite.incubator.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
+* [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
-* [Graal](http://openjdk.java.net/projects/graal) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
+* [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
@@ -145,7 +145,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.
 * [hwloc](http://linux.die.net/man/7/hwloc) - Reports the structure of the processor, number of cores, hyperthreads and cache size.
-* [likwid](https://github.com/rrze-likwid/likwid) - Read hardware performance counters on Intel and AMD processors.
+* [likwid](https://github.com/RRZE-HPC/likwid) - Read hardware performance counters on Intel and AMD processors.
 * [numactl](http://linux.die.net/man/8/numactl) - Control NUMA policy for processes or shared memory.
 * [oprofile](http://oprofile.sourceforge.net/news/) - System-wide hardware performance monitoring with easy-to-use interface at low overhead.
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
@@ -172,7 +172,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Java Mission Control](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Continuously collect low level and detailed runtime information enabling after-the-fact incident analysis.
 * [java-sizeof](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
-* [jHiccup](http://www.azulsystems.com/jHiccup) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
+* [jHiccup](http://www.azul.com/jhiccup/) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
@@ -211,8 +211,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
 * [jvm.go](https://github.com/zxh0/jvm.go) - A JVM written in Go.
 * [RoboVM](https://robovm.com/) - Create native iOS and Android apps in Java.
-* [Zing](http://www.azulsystems.com/products/zing) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
-* [Zulu](http://www.azulsystems.com/products/zulu) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
+* [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
+* [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 # Resources
 
@@ -236,7 +236,7 @@ Machine Specification Java SE 8 Edition.
 * [hotspot-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev) - HotSpot development mailing list.
 * [hotspot-gc-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev) - Technical discussion about the development of the HotSpot garbage collectors.
 * [mechanical-sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) - Discussing how to code sympathetically to and measure the underlying stack/platform so good performance can be extracted.
-* [Virtual Machine Meetup](http://vmmeetup.github.io/2015) - Venue for discussing the latest research and developments in the area of managed language execution. 
+* [Virtual Machine Meetup](http://vmmeetup.github.io/2015/) - Venue for discussing the latest research and developments in the area of managed language execution. 
 
 ## Media
 
