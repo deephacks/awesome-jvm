@@ -276,6 +276,7 @@ Machine Specification Java SE 8 Edition.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 * [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
+* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
 
 # Contributing
 
