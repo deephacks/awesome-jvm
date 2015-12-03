@@ -260,9 +260,10 @@ Machine Specification Java SE 8 Edition.
 
 ## People
 
-*People related to JVM development*
+*People directly or indirectly related to JVM development*
 * [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
 * [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
+* [Ben Christensen](https://twitter.com/benjchristensen) - Facebook, Netflix, Apple engineering.
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Dave Dice](https://blogs.oracle.com/dave/) - Senior research scientist in the Scalable Synchronization Research Group within Oracle.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
