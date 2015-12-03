@@ -274,6 +274,7 @@ Machine Specification Java SE 8 Edition.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
+* [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
 
 # Contributing
 
