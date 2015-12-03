@@ -270,7 +270,7 @@ Machine Specification Java SE 8 Edition.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
-
+* [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 
 # Contributing
 
