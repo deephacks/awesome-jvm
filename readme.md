@@ -270,12 +270,13 @@ Machine Specification Java SE 8 Edition.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
+* [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
+* [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 * [Martijn Verburg](https://twitter.com/karianna) - Java Champion.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
-* [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
 * [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
 
 # Contributing
