@@ -260,7 +260,7 @@ Machine Specification Java SE 8 Edition.
 
 ## People
 
-*People directly or indirectly related to JVM development*
+*People with direct or indirect impact on JVM development*
 * [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
 * [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
 * [Ben Christensen](https://twitter.com/benjchristensen) - Facebook, Netflix, Apple engineering.
