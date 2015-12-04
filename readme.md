@@ -117,6 +117,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Interconnecting JVM and native code* 
 
+* [hawtjni](https://github.com/fusesource/hawtjni) - A JNI code generator based on the JNI generator used in Eclipse SWT.
 * [j2v8](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
 * [jnr-ffi](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
 * [jssembly](https://github.com/dvx/jssembly) - Execution of native assembly from Java.
