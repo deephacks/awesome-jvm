@@ -91,6 +91,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [pcollections](https://github.com/pcollections/pcollections) - A Persistent Java Collections Library.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
+* [RoaringBitmap](https://github.com/lemire/RoaringBitmap) - A better compressed bitset in Java.
 * [RxJava](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
