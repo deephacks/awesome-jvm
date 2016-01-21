@@ -89,10 +89,10 @@ A curated list of awesome JVM low level and performance related stuff.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
-* [pcollections](https://github.com/pcollections/pcollections) - A Persistent Java Collections Library.
+* [pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
-* [RoaringBitmap](https://github.com/lemire/RoaringBitmap) - A better compressed bitset in Java.
+* [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 * [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
 * [RxJava](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
