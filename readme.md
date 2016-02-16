@@ -107,6 +107,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
+* [derive4j](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
@@ -117,7 +118,6 @@ A curated list of awesome JVM low level and performance related stuff.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter running on the JVM.
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
-
 
 ## Native
 
