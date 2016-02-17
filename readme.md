@@ -118,6 +118,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter running on the JVM.
+* [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
 ## Native
