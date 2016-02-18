@@ -73,6 +73,7 @@ A curated list of awesome JVM low level and performance related stuff.
 *Tools and data structures for efficient memory layout and concurrent access.*
 
 * [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
+* [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
 * [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
 * [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
