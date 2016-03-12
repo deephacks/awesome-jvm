@@ -57,6 +57,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
 * [JRuby](http://jruby.org) - Implementation of the Ruby language on the JVM.
+* [JPHP](http://j-php.net) - PHP on the Java VM.
 * [Jython](http://www.jython.org) - Python for the Java Platform.
 * [Kawa](http://www.gnu.org/software/kawa/) - Extension of the Scheme language, which is in the Lisp family of programming languages.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
