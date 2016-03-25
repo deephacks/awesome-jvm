@@ -81,6 +81,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
 * [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
+* [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
