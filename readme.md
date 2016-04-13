@@ -92,7 +92,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
-* [ohc](https://github.com/snazy/ohc) - Java large off heap cache.
+* [ohc](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
