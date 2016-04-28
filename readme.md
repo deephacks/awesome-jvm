@@ -121,6 +121,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
 * [JavaPoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * [jparsec](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+* [JSweet](http://www.jsweet.org/) - A transpiler from Java to TypeScript/JavaScript.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
 * [parboiled](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
