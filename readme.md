@@ -293,6 +293,7 @@ Machine Specification Java SE 8 Edition.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
+* [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
 * [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
 * [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
