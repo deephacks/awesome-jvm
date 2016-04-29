@@ -289,6 +289,7 @@ Machine Specification Java SE 8 Edition.
 * [Charles Nutter](https://twitter.com/headius) - JRuby guy.
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Dave Dice](https://blogs.oracle.com/dave/) - Senior research scientist in the Scalable Synchronization Research Group within Oracle.
+* [Dávid Karnok](http://akarnokd.blogspot.se/) - RxJava committer that blogs about advanced RxJava.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
