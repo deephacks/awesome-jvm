@@ -300,6 +300,7 @@ Machine Specification Java SE 8 Edition.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
+* [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
 * [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
 
 # Contributing
