@@ -300,7 +300,7 @@ Machine Specification Java SE 8 Edition.
 * [Martijn Verburg](https://twitter.com/karianna) - Java Champion.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
-* [Peter Lawrey](https://github.com/peter-lawrey) - Innovative developer of high performance Java systems for competitive advantage.
+* [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 * [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
