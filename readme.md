@@ -192,6 +192,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [hawkshaw](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
+* [HdrLogProcessing](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
 * [heapster](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
 * [jamm](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
