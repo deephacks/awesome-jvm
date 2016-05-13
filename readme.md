@@ -120,6 +120,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
 * [derive4j](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
+* [GHCVM](https://github.com/rahulmutt/ghcvm) - A Haskell to JVM compiler that supports GHC Haskell.
 * [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
