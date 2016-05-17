@@ -155,6 +155,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools for network programming, packet capture, monitoring, testing and resiliency.*
 
+* [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 * [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
