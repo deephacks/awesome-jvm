@@ -80,6 +80,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 * [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
+* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
 * [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
 * [cuckoofilter](https://github.com/efficient/cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
