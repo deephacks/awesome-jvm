@@ -158,6 +158,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 * [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
+* [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 * [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
 * [K3PO](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
