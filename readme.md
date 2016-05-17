@@ -82,6 +82,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
 * [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
 * [cuckoofilter](https://github.com/efficient/cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
+* [cyclops](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
 * [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
 * [java-hll](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
