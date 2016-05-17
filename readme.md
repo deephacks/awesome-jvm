@@ -96,6 +96,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
 * [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
+* [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
