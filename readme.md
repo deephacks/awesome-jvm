@@ -92,6 +92,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [javaslang](http://www.javaslang.io/) - Functional Library for Java 8+.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
+* [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
 * [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
