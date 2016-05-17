@@ -153,7 +153,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 ## Network
 
-*Tools for network packet capture, monitoring, testing and resiliency.*
+*Tools for network programming, packet capture, monitoring, testing and resiliency.*
 
 * [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
