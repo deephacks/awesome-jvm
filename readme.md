@@ -125,6 +125,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
 * [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
+* [Checker Framework](http://types.cs.washington.edu/checker-framework/) - Compiler plug-ins that find bugs or verify their absence.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
 * [derive4j](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
