@@ -54,6 +54,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Clojure](http://clojure.org/) - Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.
 * [Erjang](http://www.erjang.org) - A JVM-based Erlang VM.
 * [Frege](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
+* [gojava](https://github.com/sridharv/gojava) - Java bindings for Go packages.
 * [Golo](http://golo-lang.org/) - A simple dynamic language that makes extensive usage of `invokedynamic`.
 * [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
