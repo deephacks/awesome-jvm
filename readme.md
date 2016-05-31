@@ -127,6 +127,7 @@ A curated list of awesome JVM low level and performance related stuff.
 *Parsers, interpreters, compilers and source generation targeted for the JVM.*
 
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
+* [auto](https://github.com/google/auto) - A collection of source code generators for Java.
 * [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [Checker Framework](http://types.cs.washington.edu/checker-framework/) - Compiler plug-ins that find bugs or verify their absence.
 * [compile-testing](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
