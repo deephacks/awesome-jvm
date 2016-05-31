@@ -244,6 +244,7 @@ A curated list of awesome JVM low level and performance related stuff.
 ## Runtimes
 
 *Tools for managing jvm runtime processes*
+* [Capsule](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
 * [CRaSH](http://www.crashub.org/) - The shell for the Java Platform.
 * [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.
