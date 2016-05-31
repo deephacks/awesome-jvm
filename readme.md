@@ -93,6 +93,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
+* [injector](https://github.com/belliottsmith/injector) -  A new Executor for Java.
 * [javaslang](http://www.javaslang.io/) - Functional Library for Java 8+.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
