@@ -75,6 +75,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools and data structures for efficient memory layout and concurrent access.*
 
+* [Agera](https://github.com/google/agera) - Reactive Programming for Android by Google.
 * [Agrona](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
 * [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
 * [bloofi](https://github.com/lemire/bloofi) - Java implementation of multidimensional Bloom filters
