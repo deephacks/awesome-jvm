@@ -121,6 +121,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
 
