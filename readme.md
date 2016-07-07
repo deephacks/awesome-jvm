@@ -83,6 +83,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
 * [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
+* [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
 * [clj-ds](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
 * [cuckoofilter](https://github.com/efficient/cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
