@@ -243,6 +243,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
 * [Swiss Java Knife](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
+* [Tracer](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
 * [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler.
 * [Zipkin](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
 
