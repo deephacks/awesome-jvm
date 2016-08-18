@@ -161,6 +161,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [JavaCPP](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
 * [jnr-ffi](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
 * [jssembly](https://github.com/dvx/jssembly) - Execution of native assembly from Java.
+* [NuProcess](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
 * [Project Panama](http://openjdk.java.net/projects/panama/) - Enriching the connections between the JVM and APIs used by C programmers.
 
 ## Network
