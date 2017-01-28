@@ -116,6 +116,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
+* [rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
 * [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 * [rollinghashjava](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
