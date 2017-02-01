@@ -95,6 +95,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
+* [hollow](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
 * [injector](https://github.com/belliottsmith/injector) -  A new Executor for Java.
