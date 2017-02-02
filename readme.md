@@ -94,6 +94,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
+* [geohash](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
 * [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 * [hollow](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
