@@ -114,6 +114,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
 * [one-nio](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
+* [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [pcollections](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
