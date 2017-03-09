@@ -54,6 +54,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Ceylon](http://ceylon-lang.org/) - Object-oriented, strong and static programming language with an emphasis on immutability, created by Red Hat.
 * [Clojure](http://clojure.org/) - Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.
 * [Erjang](http://www.erjang.org) - A JVM-based Erlang VM.
+* [Eta](http://eta-lang.org/) - Pure, lazy, strongly typed functional programming language on the JVM.
 * [Frege](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
 * [gojava](https://github.com/sridharv/gojava) - Java bindings for Go packages.
 * [Golo](http://golo-lang.org/) - A simple dynamic language that makes extensive usage of `invokedynamic`.
