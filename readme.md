@@ -40,6 +40,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Epsilon GC](http://openjdk.java.net/jeps/8174901) - Completely passive GC implementation with bounded allocation limit, and lowest runtime performance overhead possible.
 * [G1](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) - The Garbage-First Garbage Collector.
 * [Shenandoah](http://openjdk.java.net/jeps/189) - Ultra-Low-Pause-Time Garbage Collector.
+* [The Garbage Collection Handbook](http://gchandbook.org) - Book that addresses new challenges to garbage collection made by recent advances in hardware and software.
 
 ## Load tools
 
