@@ -219,7 +219,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
-
+* [tiptop](http://tiptop.gforge.inria.fr/) - Like top but also shows instructions per cycle (IPC).
 
 ## Profilers
 
