@@ -345,6 +345,7 @@ Machine Specification Java SE 8 Edition.
 * [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) - John Cuthbertson.
 * [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
 * [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - Brendan Gregg.
+* [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
 
 ## People
 
