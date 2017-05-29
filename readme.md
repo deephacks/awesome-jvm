@@ -367,6 +367,7 @@ Machine Specification Java SE 8 Edition.
 * [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
 * [Martijn Verburg](https://twitter.com/karianna) - Java Champion.
+* [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Paul Phillips](https://twitter.com/extempore2) - Forever undisputed SLOC Scala compiler dev.
