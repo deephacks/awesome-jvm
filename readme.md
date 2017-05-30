@@ -193,7 +193,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
 * [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
-* [ReactiveSocket](http://reactivesocket.io/) - ReactiveSocket is an application protocol providing Reactive Streams semantics over an asynchronous, binary boundary.
+* [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
 * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
