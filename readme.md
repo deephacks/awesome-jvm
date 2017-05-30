@@ -104,7 +104,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
 * [injector](https://github.com/belliottsmith/injector) -  A new Executor for Java.
-* [javaslang](http://www.javaslang.io/) - Functional Library for Java 8+.
+* [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
@@ -137,8 +137,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
-* [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
