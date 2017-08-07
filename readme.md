@@ -189,6 +189,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 * [jRT](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
+* [JXIO](https://github.com/accelio/JXIO) - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
 * [K3PO](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
