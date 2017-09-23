@@ -139,6 +139,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
+* [wire](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
