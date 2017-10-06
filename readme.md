@@ -136,6 +136,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 * [stormpot](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
+* [streamvbyte](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
