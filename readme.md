@@ -355,6 +355,13 @@ Machine Specification Java SE 8 Edition.
 * [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
 * [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - Brendan Gregg.
 * [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
+* [Cliff Click podcast pt.1](http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/) - Programming and Performance Intro.
+* [Cliff Click podcast pt.2](http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/) - Bugs and Coding Styles.
+* [Cliff Click podcast pt.3](http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/) - Java vs C/C++.
+* [Cliff Click podcast pt.4](http://www.cliffc.org/blog/2017/09/21/debugging-data-races/) - Debugging Data Races.
+* [Cliff Click podcast pt.5](http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/) - Fast Bytecodes for Funny Languages.
+* [Cliff Click podcast pt.6](http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/) - Struct of Arrays vs Array of Structs.
+* [Cliff Click podcast pt.7](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - The 3 Hardest Problems in Programming.
 
 ## People
 
