@@ -365,6 +365,7 @@ Machine Specification Java SE 8 Edition.
 * [Cliff Click podcast pt.6](http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/) - Struct of Arrays vs Array of Structs.
 * [Cliff Click podcast pt.7](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - The 3 Hardest Problems in Programming.
 * [Everything about Stack Traces and Heap Dumps](https://vimeo.com/233820012) - Andrei Pangin.
+* [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
 
 ## People
 
