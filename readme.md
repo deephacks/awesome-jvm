@@ -261,6 +261,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
+* [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
 * [perfj](https://github.com/coderplay/perfj) - Linux perf for java programs.
 * [polarbear](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
