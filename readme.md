@@ -158,7 +158,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [GHCVM](https://github.com/rahulmutt/ghcvm) - A Haskell to JVM compiler that supports GHC Haskell.
 * [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
-* [grappa](https://github.com/fge/grappa) - Fork of Parboiled. Write grammars entirely in Java with no preprocessing phase.
+* [grappa](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 * [immutables](http://immutables.github.io/) - Generate simple, safe and consistent value objects.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [javaparser](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
