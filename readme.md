@@ -396,6 +396,7 @@ Machine Specification Java SE 8 Edition.
 * [Dávid Karnok](http://akarnokd.blogspot.se/) - RxJava committer that blogs about advanced RxJava.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
+* [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
 * [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
