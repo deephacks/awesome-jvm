@@ -7,6 +7,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
     - [Garbage collectors](#garbage-collectors)
     - [Load tools](#load-tools)
     - [Languages](#languages)
+    - [Machine Learning](#machine-learning)
     - [Memory and Concurrency](#memory-and-concurrency)
     - [Metaprogramming](#metaprogramming)
     - [Native](#native)
@@ -74,6 +75,10 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
 * [Xtend](http://www.eclipse.org/xtend/) - Flexible and expressive dialect of Java, which compiles into Java 5 source code.
+
+## Machine Learning
+* [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
+
 
 ## Memory and concurrency
 
