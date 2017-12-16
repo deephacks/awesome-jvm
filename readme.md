@@ -77,8 +77,9 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Xtend](http://www.eclipse.org/xtend/) - Flexible and expressive dialect of Java, which compiles into Java 5 source code.
 
 ## Machine Learning
+* [Deeplearning4j](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM.
+* [H2O](https://www.h2o.ai/) - Fast statistical, machine learning & math runtime.
 * [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
-
 
 ## Memory and concurrency
 
