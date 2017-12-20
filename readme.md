@@ -178,6 +178,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
 * [TeaVM](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 * [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
+* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
 ## Native
