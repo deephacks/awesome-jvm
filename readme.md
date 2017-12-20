@@ -149,6 +149,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [streamvbyte](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [wire](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
@@ -178,7 +179,6 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Sulong](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
 * [TeaVM](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 * [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
-* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) - No-deps variable int implementation without deps (by Bazel).
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
 ## Native
