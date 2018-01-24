@@ -100,6 +100,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [CuckooFilter4J](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
 * [Eclipse Collections](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
+* [externalsortinginjava](https://github.com/lemire/externalsortinginjava) - Sort very large files using multiple cores and an external-memory algorithm.
 * [failsafe](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
