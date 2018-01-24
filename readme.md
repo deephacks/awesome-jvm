@@ -103,6 +103,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [externalsortinginjava](https://github.com/lemire/externalsortinginjava) - Sort very large files using multiple cores and an external-memory algorithm.
 * [failsafe](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
+* [fast-uuid](https://github.com/jchambers/fast-uuid) - Java library for quickly and efficiently parsing and writing UUIDs.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [geohash](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
 * [gs-collections](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
