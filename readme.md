@@ -251,6 +251,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [aprof](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
 * [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
+* [bytestacks](https://github.com/cl4es/bytestacks) - Turn JVM bytecode execution into flame graphs. 
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCeasy](http://gceasy.io/) - Machine learning guided Garbage collection log analysis tool. Auto-detect problems in the JVM GC logs and recommend solutions to it.
 * [GCViewer](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
