@@ -126,6 +126,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [low-gc-membuffers](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
 * [lwjgl3](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 * [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
+* [mph-table](https://github.com/indeedeng/mph-table) - Minimal Perfect Hash Tables are an immutable key/value store with efficient space utilization and fast reads.
 * [mug](https://google.github.io/mug/) - A small, zero-dep functional util library originating from Google. 
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
