@@ -407,7 +407,7 @@ Machine Specification Java SE 8 Edition.
 
 ## People
 
-*People that influence JVM development and/or the community around it*
+*People that share hard-earned, often undocumented, knowledge and data of the inner workings of the JVM*
 * [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
 * [Andrey Breslav](https://twitter.com/abreslav) - Lead Language Designer of Kotlin @ JetBrains.
 * [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
