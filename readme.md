@@ -132,7 +132,6 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 * [okio](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
-* [one-nio](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
 * [onyx-java](https://github.com/onyx-platform/onyx-java) - Mirrors the Onyx Platform core API by providing a Java equivalent for each component of an Onyx workflow.
 * [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
 * [PauselessHashMap](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
@@ -207,6 +206,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 * [Aeron](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 * [armeria](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
+* [Chronicle-Network](https://github.com/OpenHFT/Chronicle-Network) - A High Performance Network library.
 * [comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
@@ -216,6 +216,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [muxy](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
 * [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+* [one-nio](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
 * [reactive-grpc](https://github.com/salesforce/reactive-grpc) - Reactive gRPC is a suite of libraries for using gRPC with Reactive Streams programming libraries.
 * [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
