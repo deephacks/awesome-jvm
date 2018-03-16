@@ -287,6 +287,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
 * [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
+* [micrometer](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools.
 * [osquery](https://osquery.io/) - osquery is an instrumentation framework that expose the operating system as a high-performance relational database.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
