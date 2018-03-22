@@ -438,6 +438,7 @@ Machine Specification Java SE 8 Edition.
 * [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
 * [Richard Startin](http://richardstartin.uk/) - Performance Analyst, blogger, tweeter.
+* [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 * [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
 * [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
