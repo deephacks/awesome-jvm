@@ -425,6 +425,7 @@ Machine Specification Java SE 8 Edition.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
 * [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
+* [Ivan Krylov](https://twitter.com/JohnWings) - JVM expert.
 * [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
