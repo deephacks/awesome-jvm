@@ -418,6 +418,7 @@ Machine Specification Java SE 8 Edition.
 * [Ben Christensen](https://twitter.com/benjchristensen) - Facebook, Netflix, Apple engineering.
 * [Brendan Gregg](http://www.brendangregg.com) - Cloud performance, kernel engineer, speaker, author.
 * [Charles Nutter](https://twitter.com/headius) - JRuby guy.
+* [Claes Redestad](https://twitter.com/cl4es) - Working with OpenJDK stuff @ Oracle.
 * [Cliff Click](http://www.cliffc.org/blog/) - Creator of the HotSpot Server Compiler.
 * [Dave Dice](https://blogs.oracle.com/dave/) - Senior research scientist in the Scalable Synchronization Research Group within Oracle.
 * [Dávid Karnok](http://akarnokd.blogspot.se/) - RxJava committer that blogs about advanced RxJava.
