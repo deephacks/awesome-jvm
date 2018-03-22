@@ -435,6 +435,7 @@ Machine Specification Java SE 8 Edition.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
 * [Paul Phillips](https://twitter.com/extempore2) - Forever undisputed SLOC Scala compiler dev.
+* [Per Liden](https://twitter.com/perliden) - Hacking on the HotSpot JVM at Oracle.
 * [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
 * [Richard Startin](http://richardstartin.uk/) - Performance Analyst, blogger, tweeter.
