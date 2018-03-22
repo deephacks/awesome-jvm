@@ -445,7 +445,9 @@ Machine Specification Java SE 8 Edition.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
 * [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
 * [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
+* [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 * [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
+
 
 # Contributing
 
