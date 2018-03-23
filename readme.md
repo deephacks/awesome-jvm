@@ -442,7 +442,7 @@ Machine Specification Java SE 8 Edition.
 * [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Rafael Winterhalter](https://twitter.com/rafaelcodes) - Author of ByteBuddy.
 * [Richard Warburton](https://twitter.com/RichardWarburto) - Developer, Speaker, Author.
-* [Richard Startin](http://richardstartin.uk/) - Performance Analyst, blogger, tweeter.
+* [Richard Startin](http://richardstartin.uk/) - Performance Analyst, developer, blogger.
 * [Ron Pressler](https://twitter.com/pressron) - Parallel Universe. Leading Fibers and Continuations for the JVM.
 * [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 * [Todd L. Montgomery](https://twitter.com/toddlmontgomery) - Ex-CTO, Ex-NASA researcher, network geek, messaging middleware designer.
