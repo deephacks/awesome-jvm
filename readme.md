@@ -336,6 +336,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 ## Documentation
 
 *Documentation related to JVM*
+* [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) Linux bcc/BPF using tcplife by Brendan Gregg
 * [Linux tracing workshop](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 * [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
 * [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
