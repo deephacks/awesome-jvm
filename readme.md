@@ -116,7 +116,8 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
-* [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever.
+* [DSL-JSON](http://github.com/ngs-doo/dsl-json) - High performance JSON library with advanced compile-time databinding.
+* [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever (copy of DSL-JSON).
 * [jOOL](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
