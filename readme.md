@@ -118,6 +118,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever.
 * [jOOL](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
+* [JUnion](https://github.com/TehLeo/junion) - Struct types for Java with performance of primitive types.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
@@ -197,6 +198,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [JavaCPP](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
 * [jnr-ffi](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
 * [jssembly](https://github.com/dvx/jssembly) - Execution of native assembly from Java.
+* [JUnion](https://github.com/TehLeo/junion) - Read/Write to native direct ByteBuffer with class-like syntax & high performance.
 * [NuProcess](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
 * [Project Panama](http://openjdk.java.net/projects/panama/) - Enriching the connections between the JVM and APIs used by C programmers.
 
