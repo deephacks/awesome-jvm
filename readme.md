@@ -64,7 +64,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
 * [JRuby](http://jruby.org) - Implementation of the Ruby language on the JVM.
-* [JPHP](http://j-php.net) - PHP on the Java VM.
+* [JPHP](https://github.com/jphp-group/jphp) - PHP on the Java VM.
 * [Jython](http://www.jython.org) - Python for the Java Platform.
 * [Kawa](http://www.gnu.org/software/kawa/) - Extension of the Scheme language, which is in the Lisp family of programming languages.
 * [Kotlin](http://kotlinlang.org/) - Statically typed programming language for the JVM, Android and the browser.
@@ -139,6 +139,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [rtree](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
+* [RTree2D](https://github.com/Sizmek/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries on plane and spherical surfaces.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
 * [Reactive Streams Utilities](https://github.com/lightbend/reactive-streams-utils) - Future standard utilities library for Reactive Streams.
 * [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
@@ -328,7 +329,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [J2ObjC](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps. 
 * [jvm.go](https://github.com/zxh0/jvm.go) - A JVM written in Go.
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
-* <strike>[RoboVM](https://robovm.com/) - Create native iOS and Android apps in Java.</strike> - Discontinued
+* [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.
 * [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
 * [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
