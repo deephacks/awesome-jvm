@@ -329,7 +329,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [J2ObjC](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps. 
 * [jvm.go](https://github.com/zxh0/jvm.go) - A JVM written in Go.
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
-* [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - Create native iOS and Android apps in Java.
+* [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux
 * [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
 * [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
