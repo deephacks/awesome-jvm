@@ -442,7 +442,6 @@ Machine Specification Java SE 8 Edition.
 * [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 * [Nitsan Wakart](http://psy-lob-saw.blogspot.se/2014/03/where-is-my-safepoint.html) - Azul Systems.
 * [Norman Maurer](https://twitter.com/normanmaurer) - Netty developer.
-* [Paul Phillips](https://twitter.com/contrarivariant) - Forever undisputed SLOC Scala compiler dev.
 * [Per Liden](https://twitter.com/perliden) - Hacking on the HotSpot JVM at Oracle.
 * [Peter Lawrey](https://twitter.com/PeterLawrey) - Innovative developer of high performance Java systems for competitive advantage.
 * [Rafael Winterhalter](https://twitter.com/rafaelcodes) - Author of ByteBuddy.
