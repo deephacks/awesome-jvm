@@ -324,6 +324,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Avian](https://github.com/ReadyTalk/avian) - Lightweight highly portable JVM with an option for AOT compilation.
 * [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
 * [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
+* [GraalVM](https://www.graalvm.org) - Modification of HotSpot/OpenJDK, it has a polyglot feature, to transparently mix and match supported languages.
 * [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
 * [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
 * [Eclipse OpenJ9](https://github.com/eclipse/openj9) - Eclipse OpenJ9.
