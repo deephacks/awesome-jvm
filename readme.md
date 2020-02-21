@@ -228,6 +228,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
 * [tcpflow](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
 * [tcpreplay](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
+* [tls-channel](https://github.com/marianobarrios/tls-channel) - A Java library that implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS for Java applications.
 
 ## Nix tools
 
