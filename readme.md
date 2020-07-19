@@ -286,6 +286,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
+* [jvmsounds](https://github.com/tersesystems/jvmsounds) - Plays JVM memory allocation rate and GC events through Java Sound API.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
 * [jvmtop](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [jvm-profiler](https://github.com/uber-common/jvm-profiler) - Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.
@@ -454,7 +455,7 @@ Machine Specification Java SE 8 Edition.
 * [Stéphane Maldini](https://twitter.com/smaldini) - Project Reactor Lead @Pivotal.
 * [Stuart Marks](https://twitter.com/stuartmarks) - Doctor Deprecator. Java/JDK/OpenJDK developer 
 * [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
-* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Typesafe Inc.
+* [Viktor Klang](https://twitter.com/viktorklang) - Deputy CTO at Lightbend Inc.
 
 
 # Contributing
