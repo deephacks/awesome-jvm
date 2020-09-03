@@ -435,6 +435,7 @@ Machine Specification Java SE 8 Edition.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
 * [Lukas Eder](https://twitter.com/lukaseder) - Blogger. Author of JOOQ.
+* [Mani Sarkar](https://twitter.com/theNeomatrix369) - Java champion, Polyglot, Software Crafter involved with @graalvm, AI/ML/DL, Data Science, Developer communities, speaker & blogger. Creator of couple of awesome lists like this one.
 * [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.
 * [Mark Reinhold](https://twitter.com/mreinhold) - Chief Architect, Java Platform Group, Oracle.
 * [Martin Thompson](http://mechanical-sympathy.blogspot.se/) - Pasty faced performance gangster.
