@@ -17,6 +17,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
     - [Runtimes](#runtimes)
     - [Virtual Machines](#virtual-machines)
 - [Resources](#resources)
+    - [Awesome lists](#awesome-lists)
     - [Communities](#communities)    
     - [Documentation](#documentation)
     - [Media](#media)
@@ -335,6 +336,11 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 # Resources
+
+## Awesome lists
+
+* [Awesome Graal](https://github.com/neomatrix369/awesome-graal/) A curated list of awesome resources for Graal, GraalVM, Truffle and related topics.
+* [Awesome Java](https://github.com/akullpp/awesome-java/) A curated list of awesome Java frameworks, libraries and software.
 
 ## Documentation
 
