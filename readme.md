@@ -339,6 +339,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 ## Awesome lists
 
+* [Awesome Graal](https://github.com/neomatrix369/awesome-graal/) A curated list of awesome resources for Graal, GraalVM, Truffle and related topics.
 * [Awesome Java](https://github.com/akullpp/awesome-java/) A curated list of awesome Java frameworks, libraries and software.
 
 ## Documentation
