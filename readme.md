@@ -260,6 +260,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [allocation-instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 * [aprof](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
 * [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.
+* [BitDive](https://bitdive.io) - Runtime profiler for Java/Kotlin with distributed tracing, method-level latency measurement, and service maps.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Byteman](http://byteman.jboss.org/) - tracing, monitoring and testing tool for Java
 * [bytestacks](https://github.com/cl4es/bytestacks) - Turn JVM bytecode execution into flame graphs. 
