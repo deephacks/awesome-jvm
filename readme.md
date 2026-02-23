@@ -281,6 +281,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [jfr-report-tool](https://github.com/lhotari/jfr-report-tool) - Tool for creating reports from Java Flight Recorder dumps.
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
 * [jitwatch-intellij](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
+* [JVM Hotpath](https://github.com/sfkamath/jvm-hotpath) - Line-level execution frequency analyzer. Tracks per-line invocation counts to find algorithmic issues and logic errors.
 * [jHiccup](http://www.azul.com/jhiccup/) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 * [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
