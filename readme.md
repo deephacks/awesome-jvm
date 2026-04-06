@@ -22,6 +22,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
     - [Media](#media)
     - [People](#people)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for JVM development workflow orchestration, automated performance management, and multi-agent coordination. MIT licensed.
 
 
 ## Bytecode
