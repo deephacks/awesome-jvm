@@ -306,6 +306,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [Tracer](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
 * [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler.
 * [Zipkin](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
+* [Hexana](https://hexana.lovable.app/?utm_source=awesome_jvm&utm_medium=referral&utm_campaign=landing_spread_q3) - IntelliJ plugin for JIT analysis: captures C2 and GraalVM JIT emission via a JVMTI agent (.jit files), visualizes compiled methods with inlining trees, and auto-attaches to JMH forks for benchmark-level inspection.
 
 
 ## Runtimes
