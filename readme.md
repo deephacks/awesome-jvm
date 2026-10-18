@@ -2,7 +2,7 @@
 
 A curated list of awesome JVM low level, performance and non-framework related stuff.
 
-- [Awesome JVM](#awesome-jvm)
+- [Awesome JVM](#awesome-jvm-)
     - [Bytecode](#bytecode)
     - [Garbage collectors](#garbage-collectors)
     - [Load tools](#load-tools)
